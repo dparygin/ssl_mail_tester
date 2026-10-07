@@ -1,4 +1,4 @@
-param (
+﻿param (
     [Parameter(Mandatory=$true, HelpMessage="Укажите FQDN или IP адрес сервера")]
     [string]$Server,
     
